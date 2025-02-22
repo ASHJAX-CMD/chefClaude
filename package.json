@@ -10,6 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@huggingface/inference": "^3.3.6",
+    "dotenv": "^16.4.7",
+    "openai": "^4.85.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
